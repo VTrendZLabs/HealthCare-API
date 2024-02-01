@@ -4,8 +4,8 @@
 https://github.com/VTrendZLabs/HealthCare-UI
 
 # Features
-Dashboard
-Billing
-Prescription
-TeleConsult
-Appointment
+Dashboard <br />
+Billing <br />
+Prescription <br />
+TeleConsult <br />
+Appointment <br />
